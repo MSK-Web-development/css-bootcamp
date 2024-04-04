@@ -6,6 +6,6 @@
   "scripts": {
     "push": "sh push.sh"
   },
-  "author": "",
+  "author": "Manoj Satishkumar",
   "license": "ISC"
 }
